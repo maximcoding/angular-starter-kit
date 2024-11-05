@@ -1,5 +1,18 @@
 # AngularStarterKit
 
+- Angular 18
+- Jest
+- NGXS
+- Module Federation
+- Lit (Web Components)
+- StoryBook
+- Docker
+- Compodoc
+- Common Core Services: ApiService, AuthService, ErrorHandlerService...
+- Common Directives:
+- Common Pipes:
+- Authentication
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
 ## Development server
